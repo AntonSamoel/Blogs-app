@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programming\\IDEs\\Visual Studio 2022\\Blogs\\Blogs.Api\\wwwroot\\assets\\images\\posts\\365ec0ba-0642-49be-a5c4-d174edb0db9e.jpeg",
+      "PackagePath": "staticwebassets\\assets\\images\\posts\\365ec0ba-0642-49be-a5c4-d174edb0db9e.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Blogs.Api.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Blogs.Api.props",
+      "PackagePath": "build\\Blogs.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Blogs.Api.props",
+      "PackagePath": "buildMultiTargeting\\Blogs.Api.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Blogs.Api.props",
+      "PackagePath": "buildTransitive\\Blogs.Api.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "bSSPVZKq1kTnZLhbf1SNkRoCHY/Mdc7/lziRpxSxF48=",
+  "Source": "Blogs.Api",
+  "BasePath": "_content/Blogs.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Blogs.Api\\wwwroot",
+      "Source": "Blogs.Api",
+      "ContentRoot": "D:\\Programming\\IDEs\\Visual Studio 2022\\Blogs\\Blogs.Api\\wwwroot\\",
+      "BasePath": "_content/Blogs.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
